@@ -1,0 +1,101 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_fire,fire,221,FIRE
+2_nose,nose,1221,NOSE
+3_togo,to go,695,GO
+4_water,water,948,WATER
+5_mouth,mouth,674,MOUTH
+6_tongue,tongue,1205,TONGUE
+7_blood,blood,946,BLOOD
+8_bone,bone,1394,BONE
+9_2sgpronoun,2sg pronoun,1215,THOU
+10_root,root,670,ROOT
+11_tocome,to come,1446,COME
+12_breast,breast,1402,BREAST
+13_rain,rain,658,RAIN (PRECIPITATION)
+14_1sgpronoun,1sg pronoun,1209,I
+15_name,name,1405,NAME
+16_louse,louse,1392,LOUSE
+17_wing,wing,1257,WING
+18_fleshmeat,flesh/meat,2615,FLESH OR MEAT
+19_armhand,arm/hand,2121,ARM OR HAND
+20_fly,fly,1441,FLY (MOVE THROUGH AIR)
+21_night,night,1233,NIGHT
+22_ear,ear,1247,EAR
+23_neck,neck,1333,NECK
+24_far,far,1406,FAR
+25_todomake,to do/make,2575,DO OR MAKE
+26_house,house,1252,HOUSE
+27_stonerock,stone/rock,2125,STONE OR ROCK
+28_bitter,bitter,887,BITTER
+29_tosay,to say,1458,SAY
+30_tooth,tooth,1380,TOOTH
+31_hair,hair,1040,HAIR
+32_big,big,1202,BIG
+33_one,one,1493,ONE
+34_who,who?,1235,WHO
+35_3sgpronoun,3sg pronoun,262,HE OR SHE OR IT
+36_tohitbeat,to hit/beat,2133,STRIKE OR BEAT
+37_legfoot,leg/foot,2098,FOOT OR LEG
+38_horn,horn,1393,HORN (ANATOMY)
+39_this,this,1214,THIS
+40_fish,fish,227,FISH
+41_yesterday,yesterday,1174,YESTERDAY
+42_todrink,to drink,1401,DRINK
+43_black,black,163,BLACK
+44_navel,navel,1838,NAVEL
+45_tostand,to stand,1442,STAND
+46_tobite,to bite,1403,BITE
+47_back,back,1291,BACK
+48_wind,wind,960,WIND
+49_smoke,smoke,778,SMOKE (EXHAUST)
+50_what,what?,1236,WHAT
+51_childkinterm,child (kin term),1801,CHILD (DESCENDANT)
+52_egg,egg,744,EGG
+53_togive,to give,1447,GIVE
+54_new,new,1231,NEW
+55_toburnintr,to burn (intr.),1428,BURNING
+56_not,not,1240,NOT
+57_good,good,1035,GOOD
+58_toknow,to know,1410,KNOW (SOMETHING)
+59_knee,knee,1371,KNEE
+60_sand,sand,671,SAND
+61_tolaugh,to laugh,1355,LAUGH
+62_tohear,to hear,1408,HEAR
+63_soil,soil,1228,EARTH (SOIL)
+64_leaf,leaf,628,LEAF
+65_red,red,156,RED
+66_liver,liver,1224,LIVER
+67_tohide,to hide,2486,HIDE
+68_skinhide,skin/hide,763,SKIN
+69_tosuck,to suck,1421,SUCK
+70_tocarry,to carry,700,CARRY
+71_ant,ant,587,ANT
+72_heavy,heavy,1210,HEAVY
+73_totake,to take,1749,TAKE
+74_old,old,1229,OLD
+75_toeat,to eat,1336,EAT
+76_thigh,thigh,800,THIGH
+77_thick,thick,1244,THICK
+78_long,long,1203,LONG
+79_toblow,to blow,175,BLOW (OF WIND)
+80_wood,wood,1803,WOOD
+81_torun,to run,1519,RUN
+82_tofall,to fall,1280,FALL
+83_eye,eye,1248,EYE
+84_ash,ash,646,ASH
+85_tail,tail,1220,TAIL
+86_dog,dog,2009,DOG
+87_tocryweep,to cry/weep,1839,CRY
+88_totie,to tie,1917,TIE
+89_tosee,to see,1409,SEE
+90_sweet,sweet,717,SWEET
+91_rope,rope,1218,ROPE
+92_shadeshadow,shade/shadow,1388,SHADE
+93_bird,bird,937,BIRD
+94_salt,salt,1274,SALT
+95_small,small,1246,SMALL
+96_wide,wide,1243,WIDE
+97_star,star,1430,STAR
+98_in,in,1460,IN
+99_hard,hard,1884,HARD
+100_tocrushgrind,to crush/grind,1033,GRIND
