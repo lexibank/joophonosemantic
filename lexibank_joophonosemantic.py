@@ -1,76 +1,71 @@
+import pathlib
+
 import attr
-from pathlib import Path
-
-from pylexibank import Concept, Language
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.util import pb
-
-import lingpy
+import pybtex.database
+from pycldf.sources import Source
+from pylexibank import Language, Dataset as BaseDataset
+from pylexibank.util import progressbar
 from clldutils.misc import slug
+
 
 @attr.s
 class CustomLanguage(Language):
-    Latitude = attr.ib(default=None)
-    Longitude = attr.ib(default=None)
     NameInSource = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
-    dir = Path(__file__).parent
+    dir = pathlib.Path(__file__).parent
     id = "joophonosemantic"
     language_class=CustomLanguage
 
     def cmd_makecldf(self, args):
-        data = self.raw_dir.read_csv('raw.tsv', delimiter="\t")
-        args.writer.add_sources()
-        header = data[0]
-        if not self.languages:
-            language_lookup = {}
-            for cell in pb(header[1:], desc='search for glottocodes'):
-                family, language = cell.split('/')
-                language, iso = language.strip().split('[')
-                iso = iso[:-1]
-                language_id = slug(language, lowercase=False)
-                glottolog = self.glottolog.glottocode_by_iso.get(iso, '')
-                language_lookup[cell] = language_id
-                args.writer.add_language(
-                        Name=language.strip(),
-                        ID=language_id,
-                        ISO639P3code=iso,
-                        Glottocode=glottolog,
-                        Family=family.strip(),
-                        Latitude=self.glottolog.languoid(glottolog).latitude,
-                        Longitude=self.glottolog.languoid(glottolog).longitude,
-                        NameInSource=cell
-                        )
-        else:
-            language_lookup = args.writer.add_languages(lookup_factory='NameInSource')
-        concept_lookup = concepts = args.writer.add_concepts(
-                id_factory=lambda x: x.id.split('-')[-1]+'_'+slug(x.english),
-                lookup_factory='Name'
-                )
-        # remap concepts for personal pronouns
-        remap_concepts = {'1SG pronoun': '1sg pronoun', '2SG pronoun': '2sg pronoun',
-                '3SG pronoun': '3sg pronoun'}
-        # remapping big vowel symbols to schwa
-        remap_sounds = {'‼': '‼/ǃ', 'V': 'V/ə', 'tʃʔ': 'tʃˀ', 'l̴': 'ł', 
-                'n!': 'ŋǃ', 'ɡ|': 'g|', 'ɡ‖': 'g‖'}
+        data = self.raw_dir.read_csv('raw.tsv', delimiter="\t", dicts=True)
 
-        for line in pb(data[1:], desc='cldfify'):
-            concept, concept_id = line[0], concept_lookup.get(
-                    remap_concepts.get(line[0], line[0]))
-            line_dict = dict(zip(header, line))
+        # Quite a hack to allow things like "1995.pdfb" as Source IDs:
+        bib = pybtex.database.parse_string(self.raw_dir.read('sources.bib'), bib_format='bibtex')
+        sources = []
+        for k, e in bib.entries.items():
+            # Unfortunately, Source.from_entry does not allow any keyword arguments to be passed
+            # to the constructor, see https://github.com/cldf/pycldf/issues/99
+            e.fields['_check_id'] = False
+            sources.append(Source.from_entry(k, e))
+        args.writer.add_sources(*sources)
+
+        language_lookup = args.writer.add_languages(lookup_factory='NameInSource')
+        concept_lookup = concepts = args.writer.add_concepts(
+            id_factory=lambda x: x.id.split('-')[-1]+'_'+slug(x.english),
+            lookup_factory='Name'
+        )
+        # remap concepts for personal pronouns
+        remap_concepts = {
+            '1SG pronoun': '1sg pronoun',
+            '2SG pronoun': '2sg pronoun',
+            '3SG pronoun': '3sg pronoun',
+        }
+        # remapping big vowel symbols to schwa
+        remap_sounds = {
+            '‼': '‼/ǃ',
+            'V': 'V/ə',
+            'tʃʔ': 'tʃˀ',
+            'l̴': 'ł',
+            'n!': 'ŋǃ',
+            'ɡ|': 'g|',
+            'ɡ‖': 'g‖',
+        }
+
+        for line_dict in progressbar(data, desc='cldfify'):
+            concept = line_dict['Meaning']
+            concept_id = concept_lookup.get(remap_concepts.get(concept, concept))
             for language, language_id in language_lookup.items():
                 value = line_dict[language]
                 if value.strip():
-                    tokens = [remap_sounds.get(x, x) for x in value.strip('.').split('.') if
-                        x.strip()]
+                    tokens = [
+                        remap_sounds.get(x, x) for x in value.strip('.').split('.') if x.strip()]
                     args.writer.add_form_with_segments(
-                            Value=value,
-                            Form=value,
-                            Segments=tokens,
-                            Parameter_ID=concept_id,
-                            Language_ID=language_id,
-                            Source=[]
-                            )
-
+                        Value=value,
+                        Form=value,
+                        Segments=tokens,
+                        Parameter_ID=concept_id,
+                        Language_ID=language_id,
+                        Source=[]
+                    )
