@@ -1,66 +1,66 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,NameInSource
-Spanish,Spanish,stan1288,,spa,,40.4414,-1.11788,Indo-European,Indo-European/ Spanish [spa]
-MandarinChinese,Mandarin Chinese,mand1415,,cmn,,40.0209,116.228,Sino-Tibetan,Sino-Tibetan/ Mandarin Chinese [cmn]
-Yoruba,Yoruba,yoru1245,,yor,,7.15345,3.67225,Niger-Congo,Niger-Congo/ Yoruba [yor]
-EgyptianSpokenArabic,Egyptian Spoken Arabic,egyp1253,,arz,,31.0,31.0,Afro-Asiatic,Afro-Asiatic/ Egyptian Spoken Arabic [arz]
-Javanese,Javanese,java1254,,jav,,-0.572307,110.885,Austronesian,Austronesian/ Javanese [jav]
-Telugu,Telugu,telu1262,,tel,,16.4529,78.7024,Dravidian,Dravidian/ Telugu [tel]
-Turkish,Turkish,nucl1301,,tur,,39.8667,32.8667,Turkic,Turkic/Turkish [tur]
-Japanese,Japanese,nucl1643,,jpn,,35.0,135.0,Japonic,Japonic/ Japanese [jpn]
-Vietnamese,Vietnamese,viet1252,,vie,,20.681188,105.774071,Austroasiatic,Austroasiatic/ Vietnamese [vie]
-Thai,Thai,thai1261,,tha,,14.192,100.671,Tai-Kadai,Tai-Kadai/ Thai [tha]
-Korean,Korean,kore1280,,kor,,37.5,128.0,Koreanic,Koreanic/ Korean [kor]
-Dholuo,Dholuo,luok1236,,luo,,-0.93296,34.4896,Nilo-Saharan,Nilo-Saharan/ Dholuo [luo]
-Hungarian,Hungarian,hung1274,,hun,,46.9068585714,19.6555271429,Uralic,Uralic/ Hungarian [hun]
-ChuanqiandianClusterMiao,Chuanqiandian Cluster Miao,chua1256,,cqd,,22.5638,101.95,Hmong-Mien,Hmong-Mien/ Chuanqiandian Cluster Miao [cqd]
-SouthBolivianQuechua,South Bolivian Quechua,sout2991,,quh,,-20.9201,-66.3331,Quechuan,Quechuan/ South Bolivian Quechua [quh]
-PeripheralMongolian,Peripheral Mongolian,peri1253,,mvf,,42.4208,110.157,Mongolic,Mongolic/ Peripheral Mongolian [mvf]
-Kabardian,Kabardian,kaba1278,,kbd,,43.5082,43.3918,N Caucasian,N Caucasian/ Kabardian [kbd]
-Kiche,Kʼicheʼ,kich1262,,quc,,14.5278,-91.1696,Mayan,Mayan/ Kʼicheʼ [quc]
-ParaguayanGuarani,Paraguayan Guarani,para1311,,gug,,-25.60551,-57.08816,Tupian,Tupian/ Paraguayan Guarani [gug]
-Georgian,Georgian,nucl1302,,kat,,41.850397,43.78613,Kartvelian,Kartvelian/ Georgian [kat]
-Enga,Enga,enga1252,,enq,,-5.45619,143.685,Trans-New Guinea,Trans-New Guinea/ Enga [enq]
-EasternHuastecaNahuatl,Eastern Huasteca Nahuatl,east2538,,nhe,,21.0639,-97.9077,Uto-Aztecan,Uto-Aztecan/ Eastern Huasteca Nahuatl [nhe]
-CentralAymara,Central Aymara,cent2142,,ayr,,-17.0,-68.5,Aymaran,Aymaran/ Central Aymara [ayr]
-MeqzuitalOtomi,Meqzuital Otomi,mezq1235,,ote,,20.2274,-99.5564,Otomanguean,Otomanguean/ Meqzuital Otomi [ote]
-Wayuu,Wayuu,wayu1243,,guc,,11.395566,-72.199791,Maipurean,Maipurean/ Wayuu [guc]
-Basque,Basque,basq1248,,eus,,43.2787,-1.31622,Basque,Basque/ Basque [eus]
-Ngabere,Ngäbere,ngab1239,,gym,,8.8251,-82.3911,Chibchan,Chibchan/ Ngäbere [gym]
-HighlandTotonac,Highland Totonac,high1243,,tos,,20.3798,-97.6159,Totonacan,Totonacan/ Highland Totonac [tos]
-Khoekhoe,Khoekhoe,nama1264,,naq,,-25.0747,17.9767,Khoe-Kwadi,Khoe-Kwadi/ Khoekhoe [naq]
-Galela,Galela,gale1259,,gbi,,2.31461,128.44,West Papuan,West Papuan/ Galela [gbi]
-Mapudungun,Mapudungun,mapu1245,,arn,,-38.7392,-71.277,Mapudungu,Mapudungu/ Mapudungun [arn]
-WesternHighlandPurepecha,Western Highland Purepecha,west2631,,pua,,19.5392,-102.154,Tarascan,Tarascan/ Western Highland Purepecha [pua]
-WoodsCree,Woods Cree,wood1236,,cwd,,57.0,-99.0,Algic,Algic/ Woods Cree [cwd]
-Navajo,Navajo,nava1243,,nav,,36.2106,-110.082,Eyak-Athabaskan,Eyak-Athabaskan/ Navajo [nav]
-HighlandPopoluca,Highland Popoluca,high1276,,poi,,18.198,-94.9109,Mixe-Zoquean,Mixe-Zoquean/ Highland Popoluca [poi]
-Ambulas,Ambulas,ambu1247,,abt,,-3.7801,143.059,Sepik,Sepik/ Ambulas [abt]
-Miskito,Mískito,misk1235,,miq,,15.1576,-84.2942,Misumalpan,Misumalpan/ Mískito [miq]
-Shuar,Shuar,shua1257,,jiv,,-3.45136,-78.1892,Jivaroan,Jivaroan/ Shuar [jiv]
-NorthernEmbera,Northern Emberá,nort2972,,emp,,7.12761,-77.574,Chocoan,Chocoan/ Northern Emberá[emp]
-NorthwesternKung,Northwestern !Kung,vase1234,,vaj,,-18.2675,18.1864,Kxʼa,Kxʼa/ Northwestern !Kung [vaj]
-Greenlandic,Greenlandic,kala1399,,kal,,69.3761,-52.864,Eskimo-Aleut,Eskimo-Aleut/ Greenlandic [kal]
-Burushaski,Burushaski,buru1296,,bsk,,36.2161,74.8236,Burushaski,Burushaski/ Burushaski [bsk]
-Sentani,Sentani,nucl1632,,set,,-2.6013,140.512,East Birdʼs Head-Sentani,East Birdʼs Head-Sentani/ Sentani [set]
-Terei,Terei,tere1278,,buo,,-6.70051,155.745,South Bougainville,South Bougainville/ Terei [buo]
-Macushi,Macushi,macu1259,,mbc,,4.31861,-60.2209,Cariban,Cariban/ Macushi [mbc]
-ApMa,Ap Ma,apma1241,,kbx,,-4.35147,144.085,Ramu-Lower Sepik,Ramu-Lower Sepik/ Ap Ma [kbx]
-Paez,Páez,paez1247,,pbb,,2.61516,-76.3125,Paezan,Paezan/ Páez [pbb]
-WichiLhamtesVejoz,Wichí Lhamtés Vejoz,wich1263,,wlv,,-24.2189,-61.9117,Matacoan,Matacoan/ Wichí Lhamtés Vejoz [wlv]
-Sandawe,Sandawe,sand1273,,sad,,-5.26918,35.4808,Sandawe,Sandawe/ Sandawe [sad]
-Xibe,Xibe,xibe1242,,sjo,,43.5854,81.0034,Tungusic,Tungusic/ Xibe [sjo]
-Toba,Toba,toba1269,,tob,,-24.40253,-60.4472866667,Guaykuruan,Guaykuruan/ Toba [tob]
-Ticuna,Ticuna,ticu1245,,tca,,-3.66289,-69.8723,Ticuna,Ticuna/ Ticuna [tca]
-Kaingang,Kaingang,kain1272,,kgp,,-27.7671,-52.5394,Jean,Jean/ Kaingang [kgp]
-Pitjantjatjara,Pitjantjatjara,pitj1243,,pjt,,-26.9704,131.357,Australian,Australian/ Pitjantjatjara [pjt]
-Guahibo,Guahibo,guah1255,,guh,,5.81736,-68.9839,Guajiboan,Guajiboan/ Guahibo [guh]
-ShipiboConibo,Shipibo-Conibo,ship1254,,shp,,-7.17105,-74.8219,Panoan,Panoan/ Shipibo-Conibo [shp]
-Yanomamo,Yanomamö,yano1261,,guu,,1.67967,-64.8781,Yanomaman,Yanomaman/ Yanomamö [guu]
-Tucano,Tucano,tuca1252,,tuo,,0.579755,-69.5763,Tucanoan,Tucanoan/ Tucano [tuo]
-Warao,Warao,wara1303,,wba,,7.50851,-59.3528,Warao,Warao/ Warao [wba]
-AwaCuaiquer,Awa-Cuaiquer,awac1239,,kwi,,1.21652,-78.3401,Barbacoan,Barbacoan/ Awa-Cuaiquer [kwi]
-MaiBrat,Mai Brat,maib1239,,ayz,,-1.3679,132.591,Maybrat,Maybrat/ Mai Brat [ayz]
-Piaroa,Piaroa,piar1243,,pid,,4.41805,-67.7574,Sálivan,Sálivan/ Piaroa [pid]
-Amanab,Amanab,aman1265,,amn,,-3.51516,141.178,Border,Border/ Amanab [amn]
-Choctaw,Choctaw,choc1276,,cho,,33.8993,-94.819,Muskogean,Muskogean/ Choctaw [cho]
-Cherokee,Cherokee,cher1273,,chr,,35.4664,-83.163,Iroquoian,Iroquoian/ Cherokee [chr]
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,NameInSource,Source
+Spanish,Spanish,stan1288,,spa,,40.4414,-1.11788,Indo-European,Indo-European/ Spanish [spa],Martinez-Celdran2003IllustrationsSpanish
+MandarinChinese,Mandarin Chinese,mand1415,,cmn,,40.0209,116.228,Sino-Tibetan,Sino-Tibetan/ Mandarin Chinese [cmn],Duanmu2007TheChinese
+Yoruba,Yoruba,yoru1245,,yor,,7.15345,3.67225,Niger-Congo,Niger-Congo/ Yoruba [yor],Fakinlede2003English-YorubaDictionary
+EgyptianSpokenArabic,Egyptian Spoken Arabic,egyp1253,,arz,,31.0,31.0,Afro-Asiatic,Afro-Asiatic/ Egyptian Spoken Arabic [arz],"Stevens2004,Watson2011TheArabic"
+Javanese,Javanese,java1254,,jav,,-0.572307,110.885,Austronesian,Austronesian/ Javanese [jav],"Sukanda2016ParlonsLexicons,Robson2002"
+Telugu,Telugu,telu1262,,tel,,16.4529,78.7024,Dravidian,Dravidian/ Telugu [tel],"Bosse1994ParlonsTelugu,Collooru2017Telugu-English/English-TeluguPhrasebook,Gwynn1991ADictionary,Krishnamurti2015Telugu"
+Turkish,Turkish,nucl1301,,tur,,39.8667,32.8667,Turkic,Turkic/Turkish [tur],"Alderson1978,Zimmer1992Turkish"
+Japanese,Japanese,nucl1643,,jpn,,35.0,135.0,Japonic,Japonic/ Japanese [jpn],Labrune2012
+Vietnamese,Vietnamese,viet1252,,vie,,20.681188,105.774071,Austroasiatic,Austroasiatic/ Vietnamese [vie],Kirby2011Vietnamese
+Thai,Thai,thai1261,,tha,,14.192,100.671,Tai-Kadai,Tai-Kadai/ Thai [tha],Iwasaki2005
+Korean,Korean,kore1280,,kor,,37.5,128.0,Koreanic,Koreanic/ Korean [kor],
+Dholuo,Dholuo,luok1236,,luo,,-0.93296,34.4896,Nilo-Saharan,Nilo-Saharan/ Dholuo [luo],"BlountLUOGrammar.,Malandra1957English-LwooDictionary,Gorman1972ADholuo,Odhiambo2010ParlonsKenya"
+Hungarian,Hungarian,hung1274,,hun,,46.9068585714,19.6555271429,Uralic,Uralic/ Hungarian [hun],"Orszagh1990,Siptar2000"
+ChuanqiandianClusterMiao,Chuanqiandian Cluster Miao,chua1256,,cqd,,22.5638,101.95,Hmong-Mien,Hmong-Mien/ Chuanqiandian Cluster Miao [cqd],"XiongYuYou2014Miao,XingGui2004:Dialect,ShiLiYun2016366Miao"
+SouthBolivianQuechua,South Bolivian Quechua,sout2991,,quh,,-20.9201,-66.3331,Quechuan,Quechuan/ South Bolivian Quechua [quh],"LaimeAjacopa2007DiccionarioSpanish-Quechua,Herrero1974DiccionarioQuechua,Urioste1955GramaticaLanguage"
+PeripheralMongolian,Peripheral Mongolian,peri1253,,mvf,,42.4208,110.157,Mongolic,Mongolic/ Peripheral Mongolian [mvf],DaoBu1983
+Kabardian,Kabardian,kaba1278,,kbd,,43.5082,43.3918,N Caucasian,N Caucasian/ Kabardian [kbd],"Jaimoukha2009ParlonsDialect,Kardanov1955Russko-kabardinsko-cherkesskijDictionary,Apazhev2013Kabardinsko-russkijDictionary,Jaimoukha2009KabardianPhonetics"
+Kiche,Kʼicheʼ,kich1262,,quc,,14.5278,-91.1696,Mayan,Mayan/ Kʼicheʼ [quc],"GarciaHernandez1980DiccionarioDictionary,Christenson1993"
+ParaguayanGuarani,Paraguayan Guarani,para1311,,gug,,-25.60551,-57.08816,Tupian,Tupian/ Paraguayan Guarani [gug],"Guasch2008DiccionarioIdeological,Britton2005GuaraniDictionary,Walker1999GuaraniStudy"
+Georgian,Georgian,nucl1302,,kat,,41.850397,43.78613,Kartvelian,Kartvelian/ Georgian [kat],"Gvarjalaze2003English-GeorgianLeksikoni,Awde2010,Shosted2006"
+Enga,Enga,enga1252,,enq,,-5.45619,143.685,Trans-New Guinea,Trans-New Guinea/ Enga [enq],
+EasternHuastecaNahuatl,Eastern Huasteca Nahuatl,east2538,,nhe,,21.0639,-97.9077,Uto-Aztecan,Uto-Aztecan/ Eastern Huasteca Nahuatl [nhe],
+CentralAymara,Central Aymara,cent2142,,ayr,,-17.0,-68.5,Aymaran,Aymaran/ Central Aymara [ayr],"de.LuccaD.1983Aymara-SpanishCastellano-aymara.,Carvajal2001IllustratedIngles"
+MeqzuitalOtomi,Meqzuital Otomi,mezq1235,,ote,,20.2274,-99.5564,Otomanguean,Otomanguean/ Meqzuital Otomi [ote],"Hernandez-CruzLuisVictoriaTorquemada2010DiccionarioState,Wallis1956DiccionarioDictionary,Blight1976TheOtomi"
+Wayuu,Wayuu,wayu1243,,guc,,11.395566,-72.199791,Maipurean,Maipurean/ Wayuu [guc],"Captain2005DiccionarioSpanish-Wayuu,SouthAmericanPhonologicalInventoryDatabase2014WayuuSAPHON"
+Basque,Basque,basq1248,,eus,,43.2787,-1.31622,Basque,Basque/ Basque [eus],Aulesta1990
+Ngabere,Ngäbere,ngab1239,,gym,,8.8251,-82.3911,Chibchan,Chibchan/ Ngäbere [gym],Alphonse1956GuaymiNotes
+HighlandTotonac,Highland Totonac,high1243,,tos,,20.3798,-97.6159,Totonacan,Totonacan/ Highland Totonac [tos],Aschmann1983Castellano-TotonacoDialect
+Khoekhoe,Khoekhoe,nama1264,,naq,,-25.0747,17.9767,Khoe-Kwadi,Khoe-Kwadi/ Khoekhoe [naq],"Haacke2002,Brugman2009"
+Galela,Galela,gale1259,,gbi,,2.31461,128.44,West Papuan,West Papuan/ Galela [gbi],Shelden1989GalelaStress
+Mapudungun,Mapudungun,mapu1245,,arn,,-38.7392,-71.277,Mapudungu,Mapudungu/ Mapudungun [arn],"Golluscio2009MapudungunVocabulary,Sadowsky2013Mapudungun"
+WesternHighlandPurepecha,Western Highland Purepecha,west2631,,pua,,19.5392,-102.154,Tarascan,Tarascan/ Western Highland Purepecha [pua],"Perez2000VocabularioVocabulary,Chamoreau2003ParlonsMexico"
+WoodsCree,Woods Cree,wood1236,,cwd,,57.0,-99.0,Algic,Algic/ Woods Cree [cwd],"Castel2001CastelsElders,Starks1992AspectsSyntax"
+Navajo,Navajo,nava1243,,nav,,36.2106,-110.082,Eyak-Athabaskan,Eyak-Athabaskan/ Navajo [nav],"Young1980,Young2014TheEnglish"
+HighlandPopoluca,Highland Popoluca,high1276,,poi,,18.198,-94.9109,Mixe-Zoquean,Mixe-Zoquean/ Highland Popoluca [poi],deJongBoudreault2009ALanguage
+Ambulas,Ambulas,ambu1247,,abt,,-3.7801,143.059,Sepik,Sepik/ Ambulas [abt],Kundama2006
+Miskito,Mískito,misk1235,,miq,,15.1576,-84.2942,Misumalpan,Misumalpan/ Mískito [miq],"Berckenhagen1906PocketEnglish-Miskito-Spanish,Heath1953DiccionarioDictionary"
+Shuar,Shuar,shua1257,,jiv,,-3.45136,-78.1892,Jivaroan,Jivaroan/ Shuar [jiv],"Borman1991ListasLanguages,InstitutoBilingueInterculturalShuar1988ChichamSpanish-Shuar,Paati2012VisionShuar"
+NorthernEmbera,Northern Emberá,nort2972,,emp,,7.12761,-77.574,Chocoan,Chocoan/ Northern Emberá[emp],Sara2001
+NorthwesternKung,Northwestern !Kung,vase1234,,vaj,,-18.2675,18.1864,Kxʼa,Kxʼa/ Northwestern !Kung [vaj],Konig2008
+Greenlandic,Greenlandic,kala1399,,kal,,69.3761,-52.864,Eskimo-Aleut,Eskimo-Aleut/ Greenlandic [kal],Oqaasileriffik2017GreenlandicDictionary
+Burushaski,Burushaski,buru1296,,bsk,,36.2161,74.8236,Burushaski,Burushaski/ Burushaski [bsk],"Berger1974DasWerchikwar,Tiffou1999ParlonsBurushos"
+Sentani,Sentani,nucl1632,,set,,-2.6013,140.512,East Birdʼs Head-Sentani,East Birdʼs Head-Sentani/ Sentani [set],Cowan1965GrammarLanguage
+Terei,Terei,tere1278,,buo,,-6.70051,155.745,South Bougainville,South Bougainville/ Terei [buo],Laycock2003ABougainville
+Macushi,Macushi,macu1259,,mbc,,4.31861,-60.2209,Cariban,Cariban/ Macushi [mbc],"Amodio1996LinguaLanguage,Miriam2010Macushi"
+ApMa,Ap Ma,apma1241,,kbx,,-4.35147,144.085,Ramu-Lower Sepik,Ramu-Lower Sepik/ Ap Ma [kbx],
+Paez,Páez,paez1247,,pbb,,2.61516,-76.3125,Paezan,Paezan/ Páez [pbb],"Slocum1983DiccionarioDictionary,Arias2012,Rojas1998LaGrammar,Rojas1998LaGrammar"
+WichiLhamtesVejoz,Wichí Lhamtés Vejoz,wich1263,,wlv,,-24.2189,-61.9117,Matacoan,Matacoan/ Wichí Lhamtés Vejoz [wlv],"Nercesian2014WichiInteraction,Vidal2009WichiVocabulary"
+Sandawe,Sandawe,sand1273,,sad,,-5.26918,35.4808,Sandawe,Sandawe/ Sandawe [sad],"Ehret2012ATanzania,Kagaya1993ALanguage"
+Xibe,Xibe,xibe1242,,sjo,,43.5854,81.0034,Tungusic,Tungusic/ Xibe [sjo],Hanxi1989
+Toba,Toba,toba1269,,tob,,-24.40253,-60.4472866667,Guaykuruan,Guaykuruan/ Toba [tob],"Messineo2003LenguaAspects,MessineoVocabularioParaguay,Buckwalter2013VocabularioVocabulary"
+Ticuna,Ticuna,ticu1245,,tca,,-3.66289,-69.8723,Ticuna,Ticuna/ Ticuna [tca],MontesRodriguez2004MorfosintaxisLanguage
+Kaingang,Kaingang,kain1272,,kgp,,-27.7671,-52.5394,Jean,Jean/ Kaingang [kgp],Wiesemann2011DicionarioDictionary
+Pitjantjatjara,Pitjantjatjara,pitj1243,,pjt,,-26.9704,131.357,Australian,Australian/ Pitjantjatjara [pjt],"Goddard1993APitjantjatjara/Yankunytjatjara,Goddard1996"
+Guahibo,Guahibo,guah1255,,guh,,5.81736,-68.9839,Guajiboan,Guajiboan/ Guahibo [guh],Kondo2014DiccionarioEspanol-Guahibo
+ShipiboConibo,Shipibo-Conibo,ship1254,,shp,,-7.17105,-74.8219,Panoan,Panoan/ Shipibo-Conibo [shp],"Loriot1993DiccionarioDictionary,Valenzuela1997,Valenzuela2001Shipibo"
+Yanomamo,Yanomamö,yano1261,,guu,,1.67967,-64.8781,Yanomaman,Yanomaman/ Yanomamö [guu],Lizot2004DiccionarioLanguage
+Tucano,Tucano,tuca1252,,tuo,,0.579755,-69.5763,Tucanoan,Tucanoan/ Tucano [tuo],Ramirez1997AYepa-masa
+Warao,Warao,wara1303,,wba,,7.50851,-59.3528,Warao,Warao/ Warao [wba],"de.Barral1979DiccionarioDictionary,PonceDiccionarioDictionary,Romero-Figueroa1997AWarao,PonceDiccionarioDictionary"
+AwaCuaiquer,Awa-Cuaiquer,awac1239,,kwi,,1.21652,-78.3401,Barbacoan,Barbacoan/ Awa-Cuaiquer [kwi],"Curnow1997,Henriksen1969MuestraCwaiquer,Henriksen1969Swadesh-RoweKwaiker"
+MaiBrat,Mai Brat,maib1239,,ayz,,-1.3679,132.591,Maybrat,Maybrat/ Mai Brat [ayz],Kambuaya1989AamVocabulary
+Piaroa,Piaroa,piar1243,,pid,,4.41805,-67.7574,Sálivan,Sálivan/ Piaroa [pid],KrisologoB.1976ManualLanguage
+Amanab,Amanab,aman1265,,amn,,-3.51516,141.178,Border,Border/ Amanab [amn],
+Choctaw,Choctaw,choc1276,,cho,,33.8993,-94.819,Muskogean,Muskogean/ Choctaw [cho],"Broadwell2006,Byington1915ALanguage"
+Cherokee,Cherokee,cher1273,,chr,,35.4664,-83.163,Iroquoian,Iroquoian/ Cherokee [chr],"Montgomery-Anderson2008ACherokee,Nation2017DikaneisdiList"

@@ -11,12 +11,13 @@ from clldutils.misc import slug
 @attr.s
 class CustomLanguage(Language):
     NameInSource = attr.ib(default=None)
+    Source = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "joophonosemantic"
-    language_class=CustomLanguage
+    language_class = CustomLanguage
 
     def cmd_makecldf(self, args):
         data = self.raw_dir.read_csv('raw.tsv', delimiter="\t", dicts=True)
@@ -32,10 +33,12 @@ class Dataset(BaseDataset):
         args.writer.add_sources(*sources)
 
         language_lookup = args.writer.add_languages(lookup_factory='NameInSource')
-        concept_lookup = concepts = args.writer.add_concepts(
+        concept_lookup = args.writer.add_concepts(
             id_factory=lambda x: x.id.split('-')[-1]+'_'+slug(x.english),
             lookup_factory='Name'
         )
+        lang_sources = {l['NameInSource']: l['Source'].split(",") for l in self.languages}
+
         # remap concepts for personal pronouns
         remap_concepts = {
             '1SG pronoun': '1sg pronoun',
@@ -67,5 +70,5 @@ class Dataset(BaseDataset):
                         Segments=tokens,
                         Parameter_ID=concept_id,
                         Language_ID=language_id,
-                        Source=[]
+                        Source=lang_sources[language]
                     )
