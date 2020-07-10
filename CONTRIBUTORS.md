@@ -1,6 +1,7 @@
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Johann-Mattis List | @LinguList | maintainer
-Ian Joo | @ianjoo | original data
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Ian Joo | @ianjoo | | author
+Johann-Mattis List | @LinguList | cldf conversion | other
+Christoph Rzymski | @chrzyki | cldf conversion | other
