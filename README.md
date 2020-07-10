@@ -9,6 +9,11 @@ Available online at https://github.com/ianjoo/LJ-List/
 
 Conceptlists in Concepticon:
 - [Tadmor-2009-100](https://concepticon.clld.org/contributions/Tadmor-2009-100)
+## Notes
+
+The LJ list of Bukiyip was not disclosed due to the request from the contributor.
+
+
 ## Statistics
 
 
@@ -39,9 +44,10 @@ Conceptlists in Concepticon:
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Johann-Mattis List | @LinguList | maintainer
-Ian Joo | @ianjoo | original data
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Ian Joo | @ianjoo | | author
+Johann-Mattis List | @LinguList | cldf conversion | other
+Christoph Rzymski | @chrzyki | cldf conversion | other
 
 

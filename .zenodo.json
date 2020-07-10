@@ -7,12 +7,16 @@
     ],
     "creators": [
         {
-            "name": "Johann-Mattis List"
+            "name": "Ian Joo"
         }
     ],
     "contributors": [
         {
-            "name": "Ian Joo",
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Christoph Rzymski",
             "type": "Other"
         }
     ],
