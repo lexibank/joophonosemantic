@@ -26,5 +26,8 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Joo, I. (2020). Phonosemantic biases found in Leipzig-Jakarta lists of 66 languages. Linguistic Typology, 24(1), 1\u201312. https://doi.org/10.1515/lingty-2019-0030</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Joo, I. (2020). Phonosemantic biases found in Leipzig-Jakarta lists of 66 languages. Linguistic Typology, 24(1), 1\u201312. https://doi.org/10.1515/lingty-2019-0030</p>\n</blockquote>",
+    "license": {
+        "id": "GPL-3.0"
+    }
 }

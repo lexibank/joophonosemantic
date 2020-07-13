@@ -1,6 +1,7 @@
 {
     "url": "https://github.com/ianjoo/LJ-List/",
-    "conceptlist": "Tadmor-2009-100",
+    "conceptlist": "Joo-2019-100",
     "citation": "Joo, I. (2020). Phonosemantic biases found in Leipzig-Jakarta lists of 66 languages. Linguistic Typology, 24(1), 1–12. https://doi.org/10.1515/lingty-2019-0030",
-    "title": "CLDF dataset derived from Joo's \"Phonosemantic Biases\" from 2020"
+    "title": "CLDF dataset derived from Joo's \"Phonosemantic Biases\" from 2020",
+    "license": "GPL-3.0"
 }

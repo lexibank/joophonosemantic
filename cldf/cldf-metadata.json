@@ -4,10 +4,11 @@
     "dc:bibliographicCitation": "Joo, I. (2020). Phonosemantic biases found in Leipzig-Jakarta lists of 66 languages. Linguistic Typology, 24(1), 1\u201312. https://doi.org/10.1515/lingty-2019-0030",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
-        "http://concepticon.clld.org/contributions/Tadmor-2009-100"
+        "http://concepticon.clld.org/contributions/Joo-2019-100"
     ],
     "dc:identifier": "https://github.com/ianjoo/LJ-List/",
     "dc:isVersionOf": null,
+    "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Joo's \"Phonosemantic Biases\" from 2020",
@@ -17,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/joophonosemantic",
-            "dc:created": "344239f"
+            "dc:created": "ae01442"
         },
         {
             "rdf:type": "prov:Entity",

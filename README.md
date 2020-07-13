@@ -4,11 +4,13 @@ Cite the source dataset as
 
 > Joo, I. (2020). Phonosemantic biases found in Leipzig-Jakarta lists of 66 languages. Linguistic Typology, 24(1), 1–12. https://doi.org/10.1515/lingty-2019-0030
 
+This dataset is licensed under a GPL-3.0 license
+
 Available online at https://github.com/ianjoo/LJ-List/
 
 
 Conceptlists in Concepticon:
-- [Tadmor-2009-100](https://concepticon.clld.org/contributions/Tadmor-2009-100)
+- [Joo-2019-100](https://concepticon.clld.org/contributions/Joo-2019-100)
 ## Notes
 
 The LJ list of Bukiyip was not disclosed due to the request from the contributor.
