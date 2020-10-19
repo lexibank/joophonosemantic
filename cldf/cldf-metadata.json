@@ -12,13 +12,13 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Joo's \"Phonosemantic Biases\" from 2020",
-    "dcat:accessURL": "https://github.com/lexibank/joophonosemantic",
+    "dcat:accessURL": "git@github.com:lexibank/joophonosemantic",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/lexibank/joophonosemantic",
-            "dc:created": "ae01442"
+            "rdf:about": "git@github.com:lexibank/joophonosemantic",
+            "dc:created": "777e739"
         },
         {
             "rdf:type": "prov:Entity",
@@ -42,7 +42,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.2"
+            "dc:description": "3.6.9"
         },
         {
             "dc:title": "python-packages",

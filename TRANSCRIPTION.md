@@ -6,8 +6,8 @@
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
 | a | 3442 | ✓ | ✓ |
-| i | 1990 | ✓ | ✓ |
-| u | 1415 | ✓ | ✓ |
+| i | 1992 | ✓ | ✓ |
+| u | 1417 | ✓ | ✓ |
 | k | 1305 | ✓ | ✓ |
 | n | 1260 | ✓ | ✓ |
 | o | 1105 | ✓ | ✓ |
@@ -16,7 +16,7 @@
 | m | 979 | ✓ | ✓ |
 | p | 635 | ✓ | ✓ |
 | s | 615 | ✓ | ✓ |
-| l | 582 | ✓ | ✓ |
+| l | 583 | ✓ | ✓ |
 | w | 525 | ✓ | ✓ |
 | j | 504 | ✓ | ✓ |
 | r | 500 | ✓ | ✓ |
@@ -47,7 +47,7 @@
 | v | 74 | ✓ | ✓ |
 | tʰ | 68 | ✓ | ✓ |
 | ũ | 67 | ✓ | ✓ |
-| ɬ | 65 | ✓ | ✓ |
+| ɬ | 66 | ✓ | ✓ |
 | eː | 61 | ✓ | ✓ |
 | z | 61 | ✓ | ✓ |
 | kʰ | 58 | ✓ | ✓ |
@@ -236,7 +236,6 @@
 | eˀ | 2 | ✓ | ✓ |
 | ḛ̃ | 2 | ✓ | ✓ |
 | ḛ̃ | 2 | ✓ | ✓ |
-| i | 2 | ✓ | ✓ |
 | iə | 2 | ✓ | ✓ |
 | iʰ | 2 | ? | ? |
 | kx | 2 | ✓ | ✓ |
@@ -257,7 +256,6 @@
 | ts̥ | 2 | ✓ | ✓ |
 | ts̺ | 2 | ✓ | ✓ |
 | tː | 2 | ✓ | ✓ |
-| u | 2 | ✓ | ✓ |
 | ṵː | 2 | ✓ | ✓ |
 | xʲ | 2 | ✓ | ✓ |
 | yː | 2 | ✓ | ✓ |
@@ -297,7 +295,6 @@
 | fː | 1 | ✓ | ✓ |
 | i̥ | 1 | ✓ | ✓ |
 | kp | 1 | ✓ | ✓ |
-| l | 1 | ✓ | ✓ |
 | l̥ | 1 | ✓ | ✓ |
 | mp | 1 | ✓ | ✓ |
 | n!ʰ | 1 | ? | ? |
@@ -338,7 +335,6 @@
 | ɡ!x | 1 | ✓ | ✓ |
 | ɡǁ | 1 | ✓ | ✓ |
 | ɡ‖xˀ | 1 | ? | ? |
-| ɬ | 1 | ✓ | ✓ |
 | ɲtɕ | 1 | ✓ | ✓ |
 | ɲ̥ | 1 | ✓ | ✓ |
 | ɳʈʂʰ | 1 | ✓ | ✓ |
@@ -356,7 +352,7 @@
 | ‖ʰ | 1 | ? | ? |
 | ‼ʔʰ | 1 | ? | ? |
 
-(350 rows)
+(346 rows)
 
 
 
@@ -372,12 +368,9 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:----------------------------------------|:-------------------------|:----------------|:---------------|:------------------------|
-| EgyptianSpokenArabic-51_childkinterm-1 | EgyptianSpokenArabic | 51_childkinterm | ʕ.a.j.j.i.l | ʕ a j j i <s> l  </s> |
+|:----------------------------------|:------------------|:----------------|:---------------|:------------------------|
 | Japanese-85_tail-1 | Japanese | 85_tail | s.i.Q.p.o | s i <s> Q </s> p o |
-| Khoekhoe-32_big-1 | Khoekhoe | 32_big | k.a.i | k a <s> i  </s> |
 | Khoekhoe-61_tolaugh-1 | Khoekhoe | 61_tolaugh | a.̃ĩ | a <s> ̃ĩ </s> |
-| Navajo-62_tohear-1 | Navajo | 62_tohear | tsʼ.ĩː.ɬ | tsʼ ĩː <s> ɬ  </s> |
 | NorthwesternKung-10_root-1 | NorthwesternKung | 10_root | n‖.a.i | <s> n‖ </s> a i |
 | NorthwesternKung-11_tocome-1 | NorthwesternKung | 11_tocome | ɡ|.e | <s> g| </s> e |
 | NorthwesternKung-13_rain-1 | NorthwesternKung | 13_rain | ɡ‖.a | <s> g‖ </s> a |
@@ -434,15 +427,12 @@
 | Sandawe-92_shadeshadow-1 | Sandawe | 92_shadeshadow | b.i.rĩ.b.i.r.i | b i <s> rĩ </s> b i r i |
 | Sandawe-97_star-1 | Sandawe | 97_star | ǀn.o.w.ã | <s> ǀn </s> o w ã |
 | Sandawe-99_hard-1 | Sandawe | 99_hard | ǂn.a.ŋ.kʼ.o | <s> ǂn </s> a ŋ kʼ o |
-| WesternHighlandPurepecha-39_this-1 | WesternHighlandPurepecha | 39_this | i | <s> i  </s> |
-| WesternHighlandPurepecha-77_thick-1 | WesternHighlandPurepecha | 77_thick | x.u.n.t.u | x u n t <s> u  </s> |
-| WesternHighlandPurepecha-9_2sgpronoun-1 | WesternHighlandPurepecha | 9_2sgpronoun | tʰ.u | tʰ <s> u  </s> |
 | WichiLhamtesVejoz-44_navel-1 | WichiLhamtesVejoz | 44_navel | t.o.tsʔ.a.q | t o <s> tsʔ </s> a q |
 | WichiLhamtesVejoz-69_tosuck-1 | WichiLhamtesVejoz | 69_tosuck | h.i.tsʔ.e | h i <s> tsʔ </s> e |
 | WichiLhamtesVejoz-80_wood-1 | WichiLhamtesVejoz | 80_wood | h.a.ʔl.o | h a <s> ʔl </s> o |
 | Yanomamo-24_far-1 | Yanomamo | 24_far | pr.a.h.a | <s> pr </s> a h a |
 | Yanomamo-45_tostand-1 | Yanomamo | 45_tostand | u.pr.a | u <s> pr </s> a |
 
-(69 rows)
+(63 rows)
 
 

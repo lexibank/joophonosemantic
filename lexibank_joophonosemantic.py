@@ -60,7 +60,7 @@ class Dataset(BaseDataset):
             concept = line_dict['Meaning']
             concept_id = concept_lookup.get(remap_concepts.get(concept, concept))
             for language, language_id in language_lookup.items():
-                value = line_dict[language]
+                value = line_dict[language].strip()
                 if value.strip():
                     tokens = [
                         remap_sounds.get(x, x) for x in value.strip('.').split('.') if x.strip()]
