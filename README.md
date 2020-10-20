@@ -23,8 +23,8 @@ The LJ list of Bukiyip was not disclosed due to the request from the contributor
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 93%](https://img.shields.io/badge/Source-93%25-green.svg "Source: 93%")
-![BIPA: 88%](https://img.shields.io/badge/BIPA-88%25-yellowgreen.svg "BIPA: 88%")
-![CLTS SoundClass: 89%](https://img.shields.io/badge/CLTS%20SoundClass-89%25-yellowgreen.svg "CLTS SoundClass: 89%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 65
 - **Concepts:** 100
@@ -32,9 +32,9 @@ The LJ list of Bukiyip was not disclosed due to the request from the contributor
 - **Sources:** 111
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 25,031
-- **Segments:** 350 (41 BIPA errors, 37 CTLS sound class errors, 310 CLTS modified)
-- **Inventory size (avg):** 30.34
+- **Tokens:** 25,050
+- **Segments:** 328 (0 BIPA errors, 0 CTLS sound class errors, 331 CLTS modified)
+- **Inventory size (avg):** 30.26
 
 ## Possible Improvements:
 
