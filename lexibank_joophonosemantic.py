@@ -45,29 +45,16 @@ class Dataset(BaseDataset):
             '2SG pronoun': '2sg pronoun',
             '3SG pronoun': '3sg pronoun',
         }
-        # remapping big vowel symbols to schwa
-        remap_sounds = {
-            '‼': '‼/ǃ',
-            'V': 'V/ə',
-            'tʃʔ': 'tʃˀ',
-            'l̴': 'ł',
-            'n!': 'ŋǃ',
-            'ɡ|': 'g|',
-            'ɡ‖': 'g‖',
-        }
 
         for line_dict in progressbar(data, desc='cldfify'):
             concept = line_dict['Meaning']
             concept_id = concept_lookup.get(remap_concepts.get(concept, concept))
             for language, language_id in language_lookup.items():
-                value = line_dict[language]
-                if value.strip():
-                    tokens = [
-                        remap_sounds.get(x, x) for x in value.strip('.').split('.') if x.strip()]
+                value = line_dict[language].strip()
+                if value:
                     args.writer.add_form(
                         Value=value,
                         Form=value,
-                        #Segments=tokens,
                         Parameter_ID=concept_id,
                         Language_ID=language_id,
                         Source=lang_sources[language]

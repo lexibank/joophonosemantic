@@ -35,7 +35,6 @@ $	NULL		6171	ɟʝ.o;u.ə;m.o;ʔ.a.n.a;a.k.u
 ‖ʔʰ	ǁʰˀ	!	1	‖ʔʰ.o.ã
 ‼ʔʰ	ǃǃʰˀ	!	1	‼ʔʰ.a.u
 ɡ‖xˀ	ɡ‖xˀ/gǁˀ	!	1	ɡ‖xˀ.a
-̃ĩ	̃ĩ	?	0	
 a	a	A	3441	ʔ.a.n.a;ʔ.a.n.a;a.k.u;w.a.t.a.s.i;w.a.t.a.s.i
 ã	ã	A	132	ɡ.e.ʔ.ã;kʲ.ã.ã;kʲ.ã.ã;ʃ.ã.x.ɨ;kʰ.ãˀ.kʰ.ã
 ă	ă	A	11	ɗ.ă.ŋ;m.ă.w;m.ă.t;n.ă.ŋ;z.ă.j
@@ -114,7 +113,7 @@ xʲ	xʲ	G	2	tʃ.œː.xʲ;s.ɛ.lʲ.xʲ
 h	h	H	441	ŋ.o.h.i;h.a.p.u;i.h.i;n.i.h.i;h.u.w.w.a
 ħ	ħ	H	22	qʷ.p.ɕ.ħ.ə;ħ.ə;t.ħ.ə.kˀʷ.m.ə;l.a.ħ.m.a;ɕ.ħ.ə.ts
 ʔ	ʔ	H	375	ʔ.a.n.a;ʔ.ɨ.ts;tʃ.a.m.a.ʔ;t.x.ɨ.ʔ;a.n.o.ʔ
-ʕ	ʕ	H	13	d.i.ɾ.aː.ʕ;ʕ.a.dˤ.m;ʕ.a.j.j.i.l ;ʕ.eː.n;b.i.ʕ.eː.d
+ʕ	ʕ	H	13	d.i.ɾ.aː.ʕ;ʕ.a.dˤ.m;ʕ.a.j.j.i.l;ʕ.eː.n;b.i.ʕ.eː.d
 ʡ	ʡ	H	3	t.i.ʡ.iː.l;ɾ.a.ʡ.a.b.a;ʡ.l
 hʲ	hʲ	H	5	hʲ.uʔ.h;w.e.hʲ;hʲ.ũ.k.w.e.t;hʲ.uˀ.h;w.e.hʲ.a
 ʔʲ	ʔʲ	H	1	ʔʲ.a.χ
@@ -136,6 +135,7 @@ i̥	i̥	I	1	a.t.t.i̥.ʃ
 ɨ̰	ɨ̰	I	9	j.ɨ̰.ɨ;b.ɨ̰.ɨ;ã.p.ɨ̰.ʔ.ɨ;d.ɨ̰.p.o;d.ɨ̰.k.o
 ɯə	ɯə	I	6	s.ɯə.ŋ;l.ɯə;m.ɯə;k.ɯə.j;l.ɯə.j
 ɯ̃	ɯ̃	I	2	n.ɯ̃.k.ɯ;β.ɯ̃.õ
+̃ĩ	ĩ	I	0	
 ḭː	ḭː	I	4	s.k.ḭː.t.ḭ;ts.ḭː.s.n.ḭ;l.iː.ts.ḭː;s.ḭː.m.a̰.q.a̰ː.t
 ḭ̃	ḭ̃	I	3	t.ḭ̃.a;s.ḭ̃.d.i;ḭ̃.y.a
 j	j	J	504	t.o.j;n.a.j.a;t.a.j.a;j.a.ŋ;a.j.e.m
@@ -279,7 +279,7 @@ tl	tɬ	T	1	tl.a.n.a
 tɬ	tɬ	T	20	tɬ.o;tɬ.e;tɬ.e;tɬ.i;tɬ.a
 tʃ	tʃ	T	238	ɪ.ɲ.tʃ.ë;tʃ.i;tʃ.a.m.a.ʔ;tʃ.i.ʃ.n.o.ʔ;tʃ.iː.m.a
 tʔ	tʔ	T	5	tʔ.a.t.e;tʔ.i.s.a.n;tʔ.e.n;t.o.tʔ.o.χ;tʔ.i.s.tʃ.e.j
-tʰ	tʰ	T	68	tʰ.ə;tʰ.u ;tʰ.a;tʰ.a.w;tʰ.i.w.i
+tʰ	tʰ	T	68	tʰ.ə;tʰ.u;tʰ.a;tʰ.a.w;tʰ.i.w.i
 tʲ	tʲ	T	4	tʲ.h.i.kʲ;kʰ.aˀ.tʲ;ʃ.uː.tʲ.u;tʲ.iː
 tʼ	tʼ	T	24	ts.a.tʼ.j.o;tʼ.ãː.ʔ;s.a.j.tʼ.u;tʼ.i.l;tʼ.o
 tː	tː	T	2	q.ɜ.nː.ɜ.tː.o.q;a.sː.ɑ.tː.ɔ

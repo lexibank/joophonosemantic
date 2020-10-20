@@ -19,7 +19,6 @@ The LJ list of Bukiyip was not disclosed due to the request from the contributor
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/joophonosemantic.svg?branch=master)](https://travis-ci.org/lexibank/joophonosemantic)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 93%](https://img.shields.io/badge/Source-93%25-green.svg "Source: 93%")
@@ -32,9 +31,9 @@ The LJ list of Bukiyip was not disclosed due to the request from the contributor
 - **Sources:** 111
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 25,050
-- **Segments:** 325 (0 BIPA errors, 0 CTLS sound class errors, 325 CLTS modified)
-- **Inventory size (avg):** 30.25
+- **Tokens:** 25,044
+- **Segments:** 324 (0 BIPA errors, 0 CTLS sound class errors, 324 CLTS modified)
+- **Inventory size (avg):** 30.18
 
 ## Possible Improvements:
 
