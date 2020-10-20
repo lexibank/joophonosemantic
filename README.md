@@ -33,8 +33,8 @@ The LJ list of Bukiyip was not disclosed due to the request from the contributor
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 25,050
-- **Segments:** 328 (0 BIPA errors, 0 CTLS sound class errors, 331 CLTS modified)
-- **Inventory size (avg):** 30.26
+- **Segments:** 325 (0 BIPA errors, 0 CTLS sound class errors, 325 CLTS modified)
+- **Inventory size (avg):** 30.25
 
 ## Possible Improvements:
 
