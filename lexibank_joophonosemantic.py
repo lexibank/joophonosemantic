@@ -64,10 +64,10 @@ class Dataset(BaseDataset):
                 if value.strip():
                     tokens = [
                         remap_sounds.get(x, x) for x in value.strip('.').split('.') if x.strip()]
-                    args.writer.add_form_with_segments(
+                    args.writer.add_form(
                         Value=value,
                         Form=value,
-                        Segments=tokens,
+                        #Segments=tokens,
                         Parameter_ID=concept_id,
                         Language_ID=language_id,
                         Source=lang_sources[language]
