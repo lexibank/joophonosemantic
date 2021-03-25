@@ -18,7 +18,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 17_wing,wing,1257,WING
 18_fleshmeat,flesh/meat,2615,FLESH OR MEAT
 19_armhand,arm/hand,2121,ARM OR HAND
-20_fly,fly,1441,FLY (MOVE THROUGH AIR)
+20_fly,fly,1504,FLY (INSECT)
 21_night,night,1233,NIGHT
 22_ear,ear,1247,EAR
 23_neck,neck,1333,NECK
@@ -74,7 +74,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 73_totake,to take,1749,TAKE
 74_old,old,1229,OLD
 75_toeat,to eat,1336,EAT
-76_thigh,thigh,800,THIGH
+76_thigh,thigh,471,UPPER LEG (THIGH)
 77_thick,thick,1244,THICK
 78_long,long,1203,LONG
 79_toblow,to blow,175,BLOW (OF WIND)

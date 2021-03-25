@@ -12,37 +12,37 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Joo's \"Phonosemantic Biases\" from 2020",
-    "dcat:accessURL": "git@github.com:lexibank/joophonosemantic",
+    "dcat:accessURL": "https://github.com/lexibank/joophonosemantic",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "git@github.com:lexibank/joophonosemantic",
-            "dc:created": "a009bef"
+            "rdf:about": "https://github.com/lexibank/joophonosemantic",
+            "dc:created": "602f561"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1"
+            "rdf:about": "https://github.com/glottolog/glottolog/",
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.6.9"
+            "dc:description": "3.9.2"
         },
         {
             "dc:title": "python-packages",

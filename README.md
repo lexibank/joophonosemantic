@@ -19,6 +19,7 @@ The LJ list of Bukiyip was not disclosed due to the request from the contributor
 ## Statistics
 
 
+[![Build Status](https://travis-ci.org/lexibank/joophonosemantic.svg?branch=master)](https://travis-ci.org/lexibank/joophonosemantic)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 93%](https://img.shields.io/badge/Source-93%25-green.svg "Source: 93%")
