@@ -15,7 +15,7 @@ Hungarian,Hungarian,hung1274,Hungarian,hun,Eurasia,46.9068585714,19.6555271429,U
 ChuanqiandianClusterMiao,Chuanqiandian Cluster Miao,chua1256,Chuanqiandian Cluster Miao,cqd,Eurasia,22.5638,101.95,Hmong-Mien,Hmong-Mien/ Chuanqiandian Cluster Miao [cqd],"XiongYuYou2014Miao,XingGui2004:Dialect,ShiLiYun2016366Miao"
 SouthBolivianQuechua,South Bolivian Quechua,sout2991,South Bolivian Quechua,quh,South America,-20.9201,-66.3331,Quechuan,Quechuan/ South Bolivian Quechua [quh],"LaimeAjacopa2007DiccionarioSpanish-Quechua,Herrero1974DiccionarioQuechua,Urioste1955GramaticaLanguage"
 PeripheralMongolian,Peripheral Mongolian,peri1253,Peripheral Mongolian,mvf,Eurasia,42.4208,110.157,Mongolic,Mongolic/ Peripheral Mongolian [mvf],DaoBu1983
-Kabardian,Kabardian,kaba1278,Kabardian,kbd,Eurasia,43.5082,43.3918,N Caucasian,N Caucasian/ Kabardian [kbd],"Jaimoukha2009ParlonsDialect,Kardanov1955Russko-kabardinsko-cherkesskijDictionary,Apazhev2013Kabardinsko-russkijDictionary,Jaimoukha2009KabardianPhonetics"
+Kabardian,Kabardian,kaba1278,Kabardian,kbd,Eurasia,43.5082,43.3918,Abkhaz-Adyge,N Caucasian/ Kabardian [kbd],"Jaimoukha2009ParlonsDialect,Kardanov1955Russko-kabardinsko-cherkesskijDictionary,Apazhev2013Kabardinsko-russkijDictionary,Jaimoukha2009KabardianPhonetics"
 Kiche,Kʼicheʼ,kich1262,K'iche',quc,North America,14.5278,-91.1696,Mayan,Mayan/ Kʼicheʼ [quc],"GarciaHernandez1980DiccionarioDictionary,Christenson1993"
 ParaguayanGuarani,Paraguayan Guarani,para1311,Paraguayan Guaraní,gug,South America,-25.60551,-57.08816,Tupian,Tupian/ Paraguayan Guarani [gug],"Guasch2008DiccionarioIdeological,Britton2005GuaraniDictionary,Walker1999GuaraniStudy"
 Georgian,Georgian,nucl1302,Georgian,kat,Eurasia,41.850397,43.78613,Kartvelian,Kartvelian/ Georgian [kat],"Gvarjalaze2003English-GeorgianLeksikoni,Awde2010,Shosted2006"
@@ -23,7 +23,7 @@ Enga,Enga,enga1252,Enga,enq,Papunesia,-5.45619,143.685,Trans-New Guinea,Trans-Ne
 EasternHuastecaNahuatl,Eastern Huasteca Nahuatl,east2538,Eastern Huasteca Nahuatl,nhe,North America,21.0639,-97.9077,Uto-Aztecan,Uto-Aztecan/ Eastern Huasteca Nahuatl [nhe],
 CentralAymara,Central Aymara,cent2142,Central Aymara,ayr,South America,-17.0,-68.5,Aymaran,Aymaran/ Central Aymara [ayr],"de.LuccaD.1983Aymara-SpanishCastellano-aymara.,Carvajal2001IllustratedIngles"
 MeqzuitalOtomi,Meqzuital Otomi,mezq1235,Mezquital Otomi,ote,North America,20.2274,-99.5564,Otomanguean,Otomanguean/ Meqzuital Otomi [ote],"Hernandez-CruzLuisVictoriaTorquemada2010DiccionarioState,Wallis1956DiccionarioDictionary,Blight1976TheOtomi"
-Wayuu,Wayuu,wayu1243,Wayuu,guc,South America,11.395566,-72.199791,Maipurean,Maipurean/ Wayuu [guc],"Captain2005DiccionarioSpanish-Wayuu,SouthAmericanPhonologicalInventoryDatabase2014WayuuSAPHON"
+Wayuu,Wayuu,wayu1243,Wayuu,guc,South America,11.395566,-72.199791,Arawakan,Maipurean/ Wayuu [guc],"Captain2005DiccionarioSpanish-Wayuu,SouthAmericanPhonologicalInventoryDatabase2014WayuuSAPHON"
 Basque,Basque,basq1248,Basque,eus,Eurasia,43.2787,-1.31622,Basque,Basque/ Basque [eus],Aulesta1990
 Ngabere,Ngäbere,ngab1239,Ngäbere,gym,North America,8.8251,-82.3911,Chibchan,Chibchan/ Ngäbere [gym],Alphonse1956GuaymiNotes
 HighlandTotonac,Highland Totonac,high1243,Highland Totonac,tos,North America,20.3798,-97.6159,Totonacan,Totonacan/ Highland Totonac [tos],Aschmann1983Castellano-TotonacoDialect
@@ -53,8 +53,8 @@ Toba,Toba,toba1269,Toba,tob,South America,-24.40253,-60.4472866667,Guaykuruan,Gu
 Ticuna,Ticuna,ticu1245,Ticuna,tca,South America,-3.66289,-69.8723,Ticuna,Ticuna/ Ticuna [tca],MontesRodriguez2004MorfosintaxisLanguage
 Kaingang,Kaingang,kain1272,Kaingang,kgp,South America,-27.7671,-52.5394,Jean,Jean/ Kaingang [kgp],Wiesemann2011DicionarioDictionary
 Pitjantjatjara,Pitjantjatjara,pitj1243,Pitjantjatjara,pjt,Australia,-26.9704,131.357,Australian,Australian/ Pitjantjatjara [pjt],"Goddard1993APitjantjatjara/Yankunytjatjara,Goddard1996"
-Guahibo,Guahibo,guah1255,Guahibo,guh,South America,5.81736,-68.9839,Guajiboan,Guajiboan/ Guahibo [guh],Kondo2014DiccionarioEspanol-Guahibo
-ShipiboConibo,Shipibo-Conibo,ship1254,Shipibo-Conibo,shp,South America,-7.17105,-74.8219,Panoan,Panoan/ Shipibo-Conibo [shp],"Loriot1993DiccionarioDictionary,Valenzuela1997,Valenzuela2001Shipibo"
+Guahibo,Guahibo,guah1255,Sikuani,guh,South America,5.81736,-68.9839,Guajiboan,Guajiboan/ Guahibo [guh],Kondo2014DiccionarioEspanol-Guahibo
+ShipiboConibo,Shipibo-Conibo,ship1254,Shipibo-Conibo,shp,South America,-7.17105,-74.8219,Pano-Tacanan,Panoan/ Shipibo-Conibo [shp],"Loriot1993DiccionarioDictionary,Valenzuela1997,Valenzuela2001Shipibo"
 Yanomamo,Yanomamö,yano1261,Yanomamö,guu,South America,1.67967,-64.8781,Yanomaman,Yanomaman/ Yanomamö [guu],Lizot2004DiccionarioLanguage
 Tucano,Tucano,tuca1252,Tucano,tuo,South America,0.579755,-69.5763,Tucanoan,Tucanoan/ Tucano [tuo],Ramirez1997AYepa-masa
 Warao,Warao,wara1303,Warao,wba,South America,7.50851,-59.3528,Warao,Warao/ Warao [wba],"de.Barral1979DiccionarioDictionary,PonceDiccionarioDictionary,Romero-Figueroa1997AWarao,PonceDiccionarioDictionary"
