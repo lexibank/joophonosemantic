@@ -28,13 +28,13 @@ The LJ list of Bukiyip was not disclosed due to the request from the contributor
 
 
 [![CLDF validation](https://github.com/lexibank/joophonosemantic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/joophonosemantic/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
+![Glottolog: 98%](https://img.shields.io/badge/Glottolog-98%25-green.svg "Glottolog: 98%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 93%](https://img.shields.io/badge/Source-93%25-green.svg "Source: 93%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 65 (linked to 65 different Glottocodes)
+- **Varieties:** 65 (linked to 64 different Glottocodes)
 - **Concepts:** 100 (linked to 100 different Concepticon concept sets)
 - **Lexemes:** 6,171
 - **Sources:** 111
@@ -46,8 +46,6 @@ The LJ list of Bukiyip was not disclosed due to the request from the contributor
 
 ## Possible Improvements:
 
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Chuanqiandian Cluster Miao [chua1256](http://glottolog.org/resource/languoid/id/chua1256)
 
 
 - Entries missing sources: 450/6171 (7.29%)
