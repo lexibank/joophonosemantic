@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/joophonosemantic",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-1-gfba8250",
+            "dc:created": "v1.1-2-g878cfbc",
             "dc:title": "Repository"
         },
         {

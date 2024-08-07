@@ -46,6 +46,8 @@ The LJ list of Bukiyip was not disclosed due to the request from the contributor
 
 ## Possible Improvements:
 
+- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
+  - Chuanqiandian Cluster Miao [chua1256](http://glottolog.org/resource/languoid/id/chua1256)
 
 
 - Entries missing sources: 450/6171 (7.29%)
